@@ -1,0 +1,41 @@
+.form {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.form-body {
+  display: flex;
+  flex-direction: column;
+}
+.field {
+  margin-bottom: 18px;
+}
+.input {
+  display: block;
+  margin-top: 6px;
+  padding: 8px;
+  min-width: 200px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+.button-container{
+    display: flex;
+}
+.button {
+  transition-duration: 0.2s;
+  background-color: transparent;
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #008CBA;
+  color: white;
+  cursor: pointer;
+}
+
+.loading {
+    margin: auto;
+    width: 30px;
+}
