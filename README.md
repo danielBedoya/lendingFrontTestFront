@@ -30,6 +30,7 @@ These instructions will help you set up and run your React application locally.
     yarn install
     ```
 4. **Set environment var**:
+
     Create a .env file and add following var
     ```ini
     REACT_APP_BACKEND_URL=http://localhost:5000
