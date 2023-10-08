@@ -25,7 +25,6 @@ These instructions will help you set up and run your React application locally.
     Use npm or yarn to install the project's dependencies:
 
     ```bash
-    Copy code
     npm install
     # OR
     yarn install
@@ -40,7 +39,6 @@ These instructions will help you set up and run your React application locally.
     Start the development server and run the React app:
 
     ```bash
-    Copy code
     npm start
     # OR
     yarn start
